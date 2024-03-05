@@ -24,13 +24,13 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/cpp-cmetaprogrammer.git
+   git clone https://github.com/anonymous thesecond/C-plus-plus-MetaProgrammer.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd cpp-cmetaprogrammer
+   cd C-plus-plus-MetaProgrammer
    ```
 
 3. **Create a build directory**:
